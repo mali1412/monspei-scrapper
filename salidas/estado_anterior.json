@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "09/06/2026 21:23:10"
+    "timestamp": "10/06/2026 01:51:04"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -75,7 +75,7 @@
   "Mercado Pago W": true,
   "MexPago": true,
   "NAFIN": false,
-  "NU MEXICO": true,
+  "NU MEXICO": false,
   "NVIO": true,
   "PAGATODO": true,
   "PPBALANCEMX": false,
@@ -92,9 +92,9 @@
   "TRANSFER": true,
   "TRANSFER DIRECT": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
-  "VALUE": false,
+  "VALUE": true,
   "VE POR MAS": true,
   "VOLKSWAGEN": true,
   "albo": true
