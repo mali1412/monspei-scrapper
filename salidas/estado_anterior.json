@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "11/06/2026 06:53:02"
+    "timestamp": "11/06/2026 10:59:55"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -10,7 +10,7 @@
   "AZTECA": true,
   "BAJIO": true,
   "BANAMEX": true,
-  "BANCO COVALTO": false,
+  "BANCO COVALTO": true,
   "BANCO S3": true,
   "BANCOMEXT": true,
   "BANCOPPEL": true,
