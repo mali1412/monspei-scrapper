@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "10/06/2026 22:51:47"
+    "timestamp": "11/06/2026 03:05:45"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -10,7 +10,7 @@
   "AZTECA": true,
   "BAJIO": true,
   "BANAMEX": true,
-  "BANCO COVALTO": false,
+  "BANCO COVALTO": true,
   "BANCO S3": true,
   "BANCOMEXT": false,
   "BANCOPPEL": true,
@@ -92,7 +92,7 @@
   "TRANSFER": true,
   "TRANSFER DIRECT": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
   "VALUE": true,
   "VE POR MAS": true,
