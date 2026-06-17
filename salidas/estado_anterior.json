@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "16/06/2026 23:04:01"
+    "timestamp": "17/06/2026 03:58:28"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -92,7 +92,7 @@
   "TRANSFER": true,
   "TRANSFER DIRECT": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
   "VALUE": true,
   "VE POR MAS": true,
