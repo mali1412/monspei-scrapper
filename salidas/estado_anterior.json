@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "23/06/2026 01:56:18"
+    "timestamp": "23/06/2026 03:23:20"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -87,7 +87,7 @@
   "SCOTIABANK": true,
   "SHINHAN": false,
   "SPIN BY OXXO": true,
-  "STP": false,
+  "STP": true,
   "TESORED": true,
   "TRANSFER": true,
   "TRANSFER DIRECT": true,
