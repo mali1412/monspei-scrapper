@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "25/06/2026 00:54:52"
+    "timestamp": "25/06/2026 02:16:28"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -18,7 +18,7 @@
   "BANJERCITO": true,
   "BANK OF AMERICA": true,
   "BANK OF CHINA": false,
-  "BANKAOOL": true,
+  "BANKAOOL": false,
   "BANOBRAS": true,
   "BANORTE": true,
   "BANREGIO": true,
