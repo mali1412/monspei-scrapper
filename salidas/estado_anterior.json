@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "24/06/2026 18:20:25"
+    "timestamp": "24/06/2026 19:23:04"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -10,7 +10,7 @@
   "AZTECA": true,
   "BAJIO": true,
   "BANAMEX": true,
-  "BANCO COVALTO": false,
+  "BANCO COVALTO": true,
   "BANCO S3": true,
   "BANCOMEXT": false,
   "BANCOPPEL": true,
@@ -30,7 +30,7 @@
   "BMONEX": true,
   "BaBien": true,
   "CAJA POP MEXICA": true,
-  "CAJA TELEFONIST": false,
+  "CAJA TELEFONIST": true,
   "CASHI CUENTA": true,
   "CI BOLSA": true,
   "CITI MEXICO": true,
