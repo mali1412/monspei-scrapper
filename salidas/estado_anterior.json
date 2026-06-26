@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "25/06/2026 18:19:25"
+    "timestamp": "25/06/2026 19:25:08"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -28,7 +28,7 @@
   "BBASE": true,
   "BBVA MEXICO": true,
   "BMONEX": true,
-  "BaBien": true,
+  "BaBien": false,
   "CAJA POP MEXICA": true,
   "CAJA TELEFONIST": true,
   "CASHI CUENTA": true,
