@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "28/06/2026 19:20:43"
+    "timestamp": "28/06/2026 20:13:58"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -11,7 +11,7 @@
   "BAJIO": true,
   "BANAMEX": true,
   "BANCO COVALTO": true,
-  "BANCO S3": true,
+  "BANCO S3": false,
   "BANCOMEXT": false,
   "BANCOPPEL": true,
   "BANCREA": true,
