@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "06/07/2026 22:13:31"
+    "timestamp": "07/07/2026 01:56:20"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -18,7 +18,7 @@
   "BANJERCITO": true,
   "BANK OF AMERICA": true,
   "BANK OF CHINA": false,
-  "BANKAOOL": true,
+  "BANKAOOL": false,
   "BANOBRAS": true,
   "BANORTE": true,
   "BANREGIO": true,
@@ -92,7 +92,7 @@
   "TRANSFER": true,
   "TRANSFER DIRECT": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
   "VALUE": true,
   "VE POR MAS": true,
