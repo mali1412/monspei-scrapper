@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "09/07/2026 19:14:38"
+    "timestamp": "09/07/2026 23:12:35"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -16,7 +16,7 @@
   "BANCOPPEL": true,
   "BANCREA": true,
   "BANJERCITO": true,
-  "BANK OF AMERICA": true,
+  "BANK OF AMERICA": false,
   "BANK OF CHINA": false,
   "BANKAOOL": true,
   "BANOBRAS": true,
@@ -34,7 +34,7 @@
   "CASHI CUENTA": true,
   "CI BOLSA": true,
   "CITI MEXICO": true,
-  "CLS": false,
+  "CLS": true,
   "COMPARTAMOS": true,
   "CONSUBANCO": true,
   "COOPDESARROLLO": false,
@@ -94,7 +94,7 @@
   "UALA": true,
   "UNAGRA": false,
   "VALMEX": false,
-  "VALUE": false,
+  "VALUE": true,
   "VE POR MAS": true,
   "VOLKSWAGEN": true,
   "albo": true
