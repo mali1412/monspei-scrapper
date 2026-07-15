@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "15/07/2026 06:23:15"
+    "timestamp": "15/07/2026 08:23:32"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -52,7 +52,7 @@
   "FINTOC": true,
   "FONDEADORA": true,
   "FONDO (FIRA)": true,
-  "GBM": false,
+  "GBM": true,
   "HEY BANCO": true,
   "HIPOTECARIA FED": false,
   "HSBC": true,
