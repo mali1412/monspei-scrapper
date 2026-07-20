@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "20/07/2026 09:19:15"
+    "timestamp": "20/07/2026 10:50:29"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -88,7 +88,7 @@
   "SHINHAN": true,
   "SPIN BY OXXO": true,
   "STP": true,
-  "TESORED": true,
+  "TESORED": false,
   "TRANSFER": true,
   "TRANSFER DIRECT": true,
   "UALA": true,
