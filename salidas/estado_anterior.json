@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "21/07/2026 22:39:06"
+    "timestamp": "22/07/2026 01:26:26"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -31,7 +31,7 @@
   "BaBien": true,
   "CAJA POP MEXICA": true,
   "CAJA TELEFONIST": true,
-  "CASHI CUENTA": false,
+  "CASHI CUENTA": true,
   "CI BOLSA": true,
   "CITI MEXICO": true,
   "CLS": true,
@@ -92,7 +92,7 @@
   "TRANSFER": true,
   "TRANSFER DIRECT": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
   "VALUE": true,
   "VE POR MAS": true,
