@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "23/07/2026 06:00:22"
+    "timestamp": "23/07/2026 08:26:37"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -40,7 +40,7 @@
   "COOPDESARROLLO": true,
   "CREDICAPITAL": true,
   "CREDICLUB": true,
-  "CRISTOBAL COLON": false,
+  "CRISTOBAL COLON": true,
   "Clip": true,
   "CoDi Valida": true,
   "Cuenca": true,
@@ -85,7 +85,7 @@
   "SABADELL": true,
   "SANTANDER": true,
   "SCOTIABANK": true,
-  "SHINHAN": false,
+  "SHINHAN": true,
   "SPIN BY OXXO": true,
   "STP": true,
   "TESORED": true,
