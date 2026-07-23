@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "23/07/2026 01:24:56"
+    "timestamp": "23/07/2026 04:02:44"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -18,7 +18,7 @@
   "BANJERCITO": true,
   "BANK OF AMERICA": true,
   "BANK OF CHINA": false,
-  "BANKAOOL": false,
+  "BANKAOOL": true,
   "BANOBRAS": true,
   "BANORTE": true,
   "BANREGIO": true,
@@ -87,7 +87,7 @@
   "SCOTIABANK": true,
   "SHINHAN": false,
   "SPIN BY OXXO": true,
-  "STP": false,
+  "STP": true,
   "TESORED": true,
   "TRANSFER": true,
   "TRANSFER DIRECT": true,
