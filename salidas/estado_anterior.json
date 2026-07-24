@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "24/07/2026 01:14:14"
+    "timestamp": "24/07/2026 03:39:51"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -16,7 +16,7 @@
   "BANCOPPEL": true,
   "BANCREA": true,
   "BANJERCITO": true,
-  "BANK OF AMERICA": false,
+  "BANK OF AMERICA": true,
   "BANK OF CHINA": false,
   "BANKAOOL": true,
   "BANOBRAS": true,
@@ -28,7 +28,7 @@
   "BBASE": true,
   "BBVA MEXICO": true,
   "BMONEX": true,
-  "BaBien": true,
+  "BaBien": false,
   "CAJA POP MEXICA": true,
   "CAJA TELEFONIST": true,
   "CASHI CUENTA": true,
@@ -39,7 +39,7 @@
   "CONSUBANCO": true,
   "COOPDESARROLLO": false,
   "CREDICAPITAL": true,
-  "CREDICLUB": false,
+  "CREDICLUB": true,
   "CRISTOBAL COLON": false,
   "Clip": true,
   "CoDi Valida": true,
