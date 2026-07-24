@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "23/07/2026 22:28:42"
+    "timestamp": "24/07/2026 01:14:14"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -39,7 +39,7 @@
   "CONSUBANCO": true,
   "COOPDESARROLLO": false,
   "CREDICAPITAL": true,
-  "CREDICLUB": true,
+  "CREDICLUB": false,
   "CRISTOBAL COLON": false,
   "Clip": true,
   "CoDi Valida": true,
@@ -88,11 +88,11 @@
   "SHINHAN": false,
   "SPIN BY OXXO": true,
   "STP": true,
-  "TESORED": false,
+  "TESORED": true,
   "TRANSFER": true,
   "TRANSFER DIRECT": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
   "VALUE": true,
   "VE POR MAS": true,
