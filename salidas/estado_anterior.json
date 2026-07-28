@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "28/07/2026 14:54:07"
+    "timestamp": "28/07/2026 16:14:12"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -47,7 +47,7 @@
   "DONDE": true,
   "Dep y Pag Dig": true,
   "FINAMEX": true,
-  "FINCO PAY": false,
+  "FINCO PAY": true,
   "FINCOMUN": true,
   "FINTOC": true,
   "FONDEADORA": true,
