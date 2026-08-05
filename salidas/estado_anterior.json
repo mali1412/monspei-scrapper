@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "04/08/2026 18:59:22"
+    "timestamp": "04/08/2026 22:23:26"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -28,12 +28,12 @@
   "BBASE": true,
   "BBVA MEXICO": true,
   "BMONEX": true,
-  "BaBien": false,
+  "BaBien": true,
   "CAJA POP MEXICA": true,
   "CAJA TELEFONIST": true,
   "CASHI CUENTA": true,
   "CITI MEXICO": true,
-  "CLS": false,
+  "CLS": true,
   "COMPARTAMOS": true,
   "CONSUBANCO": true,
   "COOPDESARROLLO": false,
@@ -94,7 +94,7 @@
   "UALA": true,
   "UNAGRA": false,
   "VALMEX": false,
-  "VALUE": false,
+  "VALUE": true,
   "VE POR MAS": true,
   "VOLKSWAGEN": true,
   "albo": true
