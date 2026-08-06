@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "05/08/2026 22:25:33"
+    "timestamp": "06/08/2026 01:22:20"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -25,7 +25,7 @@
   "BANSI": true,
   "BANXICO": true,
   "BARCLAYS": false,
-  "BBASE": false,
+  "BBASE": true,
   "BBVA MEXICO": true,
   "BMONEX": true,
   "BaBien": true,
@@ -92,7 +92,7 @@
   "TRANSFER DIRECT": true,
   "TRF": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
   "VALUE": true,
   "VE POR MAS": true,
