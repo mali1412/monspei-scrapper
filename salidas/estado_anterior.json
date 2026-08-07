@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "06/08/2026 23:19:39"
+    "timestamp": "07/08/2026 00:40:03"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -26,7 +26,7 @@
   "BANXICO": true,
   "BARCLAYS": false,
   "BBASE": true,
-  "BBVA MEXICO": true,
+  "BBVA MEXICO": false,
   "BMONEX": true,
   "BaBien": true,
   "CAJA POP MEXICA": true,
@@ -92,7 +92,7 @@
   "TRANSFER DIRECT": true,
   "TRF": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
   "VALUE": true,
   "VE POR MAS": true,
