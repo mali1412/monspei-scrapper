@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "07/08/2026 00:40:03"
+    "timestamp": "07/08/2026 02:01:53"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -26,7 +26,7 @@
   "BANXICO": true,
   "BARCLAYS": false,
   "BBASE": true,
-  "BBVA MEXICO": false,
+  "BBVA MEXICO": true,
   "BMONEX": true,
   "BaBien": true,
   "CAJA POP MEXICA": true,
