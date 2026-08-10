@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "10/08/2026 04:52:23"
+    "timestamp": "10/08/2026 05:55:56"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -24,7 +24,7 @@
   "BANREGIO": true,
   "BANSI": true,
   "BANXICO": true,
-  "BARCLAYS": false,
+  "BARCLAYS": true,
   "BBASE": true,
   "BBVA MEXICO": true,
   "BMONEX": true,
@@ -74,11 +74,11 @@
   "MULTIVA BANCO": true,
   "Mercado Pago W": true,
   "MexPago": true,
-  "NAFIN": false,
+  "NAFIN": true,
   "NUBANK": true,
   "NVIO": true,
   "PAGATODO": true,
-  "PPBALANCEMX": false,
+  "PPBALANCEMX": true,
   "PROFUTURO": false,
   "Peibo": true,
   "SABADELL": true,
