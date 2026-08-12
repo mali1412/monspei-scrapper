@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "12/08/2026 12:41:15"
+    "timestamp": "12/08/2026 13:53:02"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -67,7 +67,7 @@
   "KUSPIT": true,
   "LIBERTAD": true,
   "MASARI": true,
-  "MIFEL": true,
+  "MIFEL": false,
   "MIZUHO BANK": true,
   "MONEXCB": true,
   "MUFG": true,
