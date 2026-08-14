@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "13/08/2026 20:43:15"
+    "timestamp": "13/08/2026 22:31:02"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -33,7 +33,7 @@
   "CAJA TELEFONIST": true,
   "CASHI CUENTA": true,
   "CITI MEXICO": true,
-  "CLS": false,
+  "CLS": true,
   "COMPARTAMOS": true,
   "CONSUBANCO": true,
   "COOPDESARROLLO": false,
