@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "14/08/2026 11:34:30"
+    "timestamp": "14/08/2026 12:30:13"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -63,7 +63,7 @@
   "INVEX": true,
   "JP MORGAN": true,
   "KAPITAL": true,
-  "KLAR": false,
+  "KLAR": true,
   "KUSPIT": true,
   "LIBERTAD": true,
   "MASARI": true,
