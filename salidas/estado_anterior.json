@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "17/08/2026 07:56:45"
+    "timestamp": "17/08/2026 08:38:44"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -36,7 +36,7 @@
   "CLS": true,
   "COMPARTAMOS": true,
   "CONSUBANCO": true,
-  "COOPDESARROLLO": false,
+  "COOPDESARROLLO": true,
   "CREDICAPITAL": true,
   "CREDICLUB": true,
   "CRISTOBAL COLON": true,
