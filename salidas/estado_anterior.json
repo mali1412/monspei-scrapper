@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "17/08/2026 20:03:10"
+    "timestamp": "17/08/2026 21:05:44"
   },
   "ACTINVER": true,
   "AFIRME": false,
@@ -59,7 +59,7 @@
   "INBURSA": true,
   "INDEVAL": false,
   "INMOBILIARIO": true,
-  "INTERCAM BANCO": false,
+  "INTERCAM BANCO": true,
   "INVEX": true,
   "JP MORGAN": true,
   "KAPITAL": true,
@@ -94,7 +94,7 @@
   "UALA": true,
   "UNAGRA": false,
   "VALMEX": false,
-  "VALUE": false,
+  "VALUE": true,
   "VE POR MAS": true,
   "VOLKSWAGEN": true,
   "albo": true
