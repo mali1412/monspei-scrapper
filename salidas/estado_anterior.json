@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "19/08/2026 03:25:08"
+    "timestamp": "19/08/2026 04:01:50"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -60,7 +60,7 @@
   "INDEVAL": false,
   "INMOBILIARIO": true,
   "INTERCAM BANCO": true,
-  "INVEX": false,
+  "INVEX": true,
   "JP MORGAN": true,
   "KAPITAL": true,
   "KLAR": true,
