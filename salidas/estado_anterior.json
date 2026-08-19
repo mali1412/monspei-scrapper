@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "18/08/2026 19:49:05"
+    "timestamp": "18/08/2026 20:47:01"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -94,7 +94,7 @@
   "UALA": true,
   "UNAGRA": false,
   "VALMEX": false,
-  "VALUE": false,
+  "VALUE": true,
   "VE POR MAS": true,
   "VOLKSWAGEN": true,
   "albo": true
