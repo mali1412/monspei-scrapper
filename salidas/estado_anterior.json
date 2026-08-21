@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "21/08/2026 06:00:15"
+    "timestamp": "21/08/2026 07:06:17"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -39,13 +39,13 @@
   "COOPDESARROLLO": true,
   "CREDICAPITAL": true,
   "CREDICLUB": true,
-  "CRISTOBAL COLON": false,
+  "CRISTOBAL COLON": true,
   "Clip": true,
   "CoDi Valida": true,
   "Cuenca": true,
   "DONDE": true,
   "Dep y Pag Dig": true,
-  "FINAMEX": false,
+  "FINAMEX": true,
   "FINCO PAY": true,
   "FINCOMUN": true,
   "FINTOC": true,
@@ -84,7 +84,7 @@
   "SABADELL": true,
   "SANTANDER": true,
   "SCOTIABANK": true,
-  "SHINHAN": false,
+  "SHINHAN": true,
   "SPIN BY OXXO": true,
   "STP": true,
   "TESORED": true,
