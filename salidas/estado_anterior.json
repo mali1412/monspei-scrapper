@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "20/08/2026 22:20:27"
+    "timestamp": "20/08/2026 23:01:36"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -81,13 +81,13 @@
   "PPBALANCEMX": false,
   "PROFUTURO": false,
   "Peibo": true,
-  "SABADELL": true,
+  "SABADELL": false,
   "SANTANDER": true,
   "SCOTIABANK": true,
   "SHINHAN": false,
   "SPIN BY OXXO": true,
   "STP": true,
-  "TESORED": false,
+  "TESORED": true,
   "TRANSFER": true,
   "TRANSFER DIRECT": true,
   "TRF": true,
