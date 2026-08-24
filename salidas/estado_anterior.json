@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "23/08/2026 23:06:23"
+    "timestamp": "23/08/2026 23:51:24"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -81,7 +81,7 @@
   "PPBALANCEMX": false,
   "PROFUTURO": false,
   "Peibo": true,
-  "SABADELL": true,
+  "SABADELL": false,
   "SANTANDER": true,
   "SCOTIABANK": true,
   "SHINHAN": false,
