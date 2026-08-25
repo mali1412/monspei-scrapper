@@ -1,10 +1,10 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "24/08/2026 22:50:38"
+    "timestamp": "24/08/2026 23:23:48"
   },
   "ACTINVER": true,
-  "AFIRME": true,
+  "AFIRME": false,
   "ARCUS FI": true,
   "ASP INTEGRA OPC": true,
   "AZTECA": true,
@@ -89,7 +89,7 @@
   "STP": true,
   "TESORED": true,
   "TRANSFER": true,
-  "TRANSFER DIRECT": false,
+  "TRANSFER DIRECT": true,
   "TRF": true,
   "UALA": true,
   "UNAGRA": false,
