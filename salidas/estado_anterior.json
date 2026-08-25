@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "24/08/2026 20:06:11"
+    "timestamp": "24/08/2026 21:11:24"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -89,7 +89,7 @@
   "STP": true,
   "TESORED": true,
   "TRANSFER": true,
-  "TRANSFER DIRECT": true,
+  "TRANSFER DIRECT": false,
   "TRF": true,
   "UALA": true,
   "UNAGRA": false,
