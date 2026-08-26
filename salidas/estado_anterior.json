@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 95,
-    "timestamp": "26/08/2026 05:16:37"
+    "timestamp": "26/08/2026 05:51:10"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -74,7 +74,7 @@
   "MULTIVA BANCO": true,
   "Mercado Pago W": true,
   "MexPago": true,
-  "NAFIN": false,
+  "NAFIN": true,
   "NUBANK": true,
   "NVIO": true,
   "PAGATODO": true,
