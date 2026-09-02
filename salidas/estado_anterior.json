@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 97,
-    "timestamp": "02/09/2026 00:06:27"
+    "timestamp": "02/09/2026 05:14:33"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -25,7 +25,7 @@
   "BANREGIO": true,
   "BANSI": true,
   "BANXICO": true,
-  "BARCLAYS": false,
+  "BARCLAYS": true,
   "BBASE": true,
   "BBVA MEXICO": true,
   "BMONEX": true,
@@ -79,7 +79,7 @@
   "NUBANK": true,
   "NVIO": true,
   "PAGATODO": true,
-  "PPBALANCEMX": false,
+  "PPBALANCEMX": true,
   "PROFUTURO": false,
   "Peibo": true,
   "REVOLUT BANK": true,
