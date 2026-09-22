@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 97,
-    "timestamp": "22/09/2026 06:06:21"
+    "timestamp": "22/09/2026 10:54:45"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -36,7 +36,7 @@
   "CITI MEXICO": true,
   "CLS": true,
   "COMPARTAMOS": true,
-  "CONSUBANCO": false,
+  "CONSUBANCO": true,
   "COOPDESARROLLO": true,
   "CREDICAPITAL": true,
   "CREDICLUB": true,
@@ -46,7 +46,7 @@
   "Cuenca": true,
   "DONDE": true,
   "Dep y Pag Dig": true,
-  "FINAMEX": false,
+  "FINAMEX": true,
   "FINCO PAY": true,
   "FINCOMUN": true,
   "FINTOC": true,
