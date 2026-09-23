@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 97,
-    "timestamp": "22/09/2026 19:26:56"
+    "timestamp": "23/09/2026 00:37:14"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -34,7 +34,7 @@
   "CAJA TELEFONIST": true,
   "CASHI CUENTA": true,
   "CITI MEXICO": true,
-  "CLS": false,
+  "CLS": true,
   "COMPARTAMOS": true,
   "CONSUBANCO": true,
   "COOPDESARROLLO": false,
@@ -67,7 +67,7 @@
   "KLAR": true,
   "KUSPIT": true,
   "LIBERTAD": true,
-  "MASARI": true,
+  "MASARI": false,
   "MIFEL": true,
   "MIZUHO BANK": false,
   "MONEXCB": true,
@@ -94,9 +94,9 @@
   "TRANSFER DIRECT": true,
   "TRF": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
-  "VALUE": false,
+  "VALUE": true,
   "VE POR MAS": true,
   "VOLKSWAGEN": true,
   "albo": true
