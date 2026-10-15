@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 97,
-    "timestamp": "15/10/2026 13:16:19"
+    "timestamp": "15/10/2026 16:28:19"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -82,7 +82,7 @@
   "PPBALANCEMX": true,
   "PROFUTURO": true,
   "Peibo": true,
-  "REVOLUT BANK": true,
+  "REVOLUT BANK": false,
   "SABADELL": true,
   "SANTANDER": true,
   "SCOTIABANK": true,
