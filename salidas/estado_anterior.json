@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 97,
-    "timestamp": "19/10/2026 22:40:21"
+    "timestamp": "20/10/2026 03:40:26"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -77,7 +77,7 @@
   "MexPago": true,
   "NAFIN": false,
   "NUBANK": true,
-  "NVIO": false,
+  "NVIO": true,
   "PAGATODO": true,
   "PPBALANCEMX": false,
   "PROFUTURO": false,
@@ -94,7 +94,7 @@
   "TRANSFER DIRECT": true,
   "TRF": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
   "VALUE": true,
   "VE POR MAS": true,
