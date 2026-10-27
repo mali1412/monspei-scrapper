@@ -1,10 +1,10 @@
 {
   "_meta": {
     "total": 97,
-    "timestamp": "26/10/2026 18:55:20"
+    "timestamp": "27/10/2026 00:12:16"
   },
   "ACTINVER": true,
-  "AFIRME": true,
+  "AFIRME": false,
   "ARCUS FI": true,
   "ASP INTEGRA OPC": true,
   "AZTECA": true,
@@ -34,14 +34,14 @@
   "CAJA TELEFONIST": true,
   "CASHI CUENTA": true,
   "CITI MEXICO": true,
-  "CLS": false,
+  "CLS": true,
   "COMPARTAMOS": true,
   "CONSUBANCO": true,
   "COOPDESARROLLO": false,
   "CREDICAPITAL": true,
   "CREDICLUB": true,
   "CRISTOBAL COLON": false,
-  "Clip": false,
+  "Clip": true,
   "CoDi Valida": true,
   "Cuenca": true,
   "DONDE": true,
@@ -94,9 +94,9 @@
   "TRANSFER DIRECT": true,
   "TRF": true,
   "UALA": true,
-  "UNAGRA": false,
+  "UNAGRA": true,
   "VALMEX": false,
-  "VALUE": false,
+  "VALUE": true,
   "VE POR MAS": true,
   "VOLKSWAGEN": true,
   "albo": true
