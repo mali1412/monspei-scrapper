@@ -1,7 +1,7 @@
 {
   "_meta": {
     "total": 97,
-    "timestamp": "27/10/2026 12:13:30"
+    "timestamp": "27/10/2026 16:25:27"
   },
   "ACTINVER": true,
   "AFIRME": true,
@@ -55,7 +55,7 @@
   "GBM": true,
   "HEY BANCO": true,
   "HIPOTECARIA FED": false,
-  "HSBC": true,
+  "HSBC": false,
   "ICBC": true,
   "INBURSA": true,
   "INDEVAL": true,
